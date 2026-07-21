@@ -1,0 +1,14 @@
+[
+  {
+    "pregunta": "¿Cómo obtengo mi certificado de finalización?",
+    "respuesta": "El certificado se genera automáticamente en formato PDF en la sección 'Mis Logros' al completar el 100% de los videos y aprobar el examen final con más de 70 puntos.",
+    "categoria": "Certificados",
+    "responsable": "Soporte Técnico (soporte@edutech.com)"
+  },
+  {
+    "pregunta": "¿Los cursos tienen límite de tiempo?",
+    "respuesta": "No, una vez adquirido el curso el acceso es de por vida y puedes realizarlo a tu propio ritmo.",
+    "categoria": "Cursos",
+    "responsable": "Soporte Técnico"
+  }
+]
